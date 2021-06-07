@@ -1,3 +1,7 @@
+# github.com/Akagi201/eosgo v0.0.0-20180706103912-dd31ef9efa2e
+## explicit
+github.com/Akagi201/eosgo/ecc
+github.com/Akagi201/eosgo/types
 # github.com/davecgh/go-spew v1.1.1
 ## explicit
 github.com/davecgh/go-spew/spew

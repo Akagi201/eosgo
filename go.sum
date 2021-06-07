@@ -1,3 +1,5 @@
+github.com/Akagi201/eosgo v0.0.0-20180706103912-dd31ef9efa2e h1:2tPSGuJS5R949yr3MVyqfi0p9Q3GQmBJMYz1Xq0qKJo=
+github.com/Akagi201/eosgo v0.0.0-20180706103912-dd31ef9efa2e/go.mod h1:uvrlECCL6SsVJSNy94FplvOuawd3k0ao2fS1NY+WFcw=
 github.com/Azure/azure-pipeline-go v0.2.1/go.mod h1:UGSo8XybXnIGZ3epmeBw7Jdz+HiUVpqIlpz/HKHylF4=
 github.com/Azure/azure-pipeline-go v0.2.2/go.mod h1:4rQ/NZncSvGqNkkOsNpOU1tgoNuIlp9AfUH5G1tvCHc=
 github.com/Azure/azure-storage-blob-go v0.7.0/go.mod h1:f9YQKtsG1nMisotuTPpO0tjNuEjKRYAcJU8/ydDI++4=
